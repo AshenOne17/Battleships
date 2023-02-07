@@ -1,1 +1,1 @@
-# Battleshops
+# Battleships
